@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-bug-findbug
+    profiles:
+        active: dev
+server:
+    port: 8080
